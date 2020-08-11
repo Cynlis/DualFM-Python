@@ -5,21 +5,21 @@
 
 #### Song and artist:
 ```py
-import dualfm
+import dualapi
 
 print(dualapi.Now.song)
 print(dualapi.Now.artist)
 ```
 #### Listeners:
 ```py
-import dualfm
+import dualapi
 
 print(dualapi.Listeners.current)
 print(dualapi.Listeners.Peak)
 ```
 #### Presenter:
 ```py
-import dualfm
+import dualapi
 
 print(dualapi.Presenter.username)
 ```
