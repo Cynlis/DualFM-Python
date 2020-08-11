@@ -15,7 +15,7 @@ print(dualapi.Now.artist)
 import dualapi
 
 print(dualapi.Listeners.current)
-print(dualapi.Listeners.Peak)
+print(dualapi.Listeners.peak)
 ```
 #### Presenter:
 ```py
